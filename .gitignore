@@ -5,4 +5,3 @@ env/
 *.pyc
 data/raw/
 data/interim/
-models/
