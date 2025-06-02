@@ -96,7 +96,7 @@ st.set_page_config(page_title="Car Quality Predictor", layout="centered")
 st.title("Car Quality Predictor by Lakitus")
 st.markdown(
     """
-    Fill in the sidebar with the car's specifications and click **Predict**
+    Fill in the sidebar with the car's specifications and click **Predict**.
     """
 )
 
