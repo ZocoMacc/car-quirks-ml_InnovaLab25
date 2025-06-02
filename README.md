@@ -1,5 +1,5 @@
-### Proyecto car-quirks-ml InnovaLab 2025
-Un modelo para predecir el valor de calificacion de un automovil segun sus categorias y caracteristicas
+### Proyecto "Car Quality Predictor by Lakitus" presentado en InnovaLab 2025
+Un modelo basado en XGBoost y hosteado en Streamlit para predecir el valor de calidad de un automovil segun sus categorias y caracteristicas.
 
 ### Instrucciones para dessarrollar el proyecto
 Cuando alguien nuevo quiera empezar a desarrollar el proyecto, el usuario tiene que correr las siguientes lineas en la terminal de su IDE o en una terminal bash del host
@@ -15,5 +15,6 @@ pip install -r requirements.txt
 ### Como correr el proyecto
 Usar la siguiente linea en la terminal
 ```bash
-python run_pipeline.py
+python streamlit run app.py
 ```
+- Instalar `streamlit` si es necesario.
