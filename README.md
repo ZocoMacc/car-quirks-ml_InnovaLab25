@@ -1,6 +1,9 @@
  ### Proyecto "Car Quality Predictor by Lakitus" presentado en InnovaLab 2025
 Un modelo basado en XGBoost y hosteado en Streamlit para predecir el valor de calidad de un vehiculo automovil en base a sus categorias y caracteristicas.
 
+### Prueba el proyecto
+App link: https://lakitus-quality-predictor.streamlit.app/
+
 ### Instrucciones para dessarrollar el proyecto
 Cuando alguien nuevo quiera empezar a desarrollar el proyecto, el usuario tiene que correr las siguientes lineas en la terminal de su IDE o en una terminal bash del host
 ```bash
